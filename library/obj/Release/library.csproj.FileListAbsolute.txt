@@ -1,0 +1,6 @@
+C:\Users\benja\Desktop\crud-ws\library\bin\Release\library.dll
+C:\Users\benja\Desktop\crud-ws\library\bin\Release\library.pdb
+C:\Users\benja\Desktop\crud-ws\library\obj\Release\library.csproj.AssemblyReference.cache
+C:\Users\benja\Desktop\crud-ws\library\obj\Release\library.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\crud-ws\library\obj\Release\library.dll
+C:\Users\benja\Desktop\crud-ws\library\obj\Release\library.pdb
